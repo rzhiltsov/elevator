@@ -1,0 +1,4 @@
+elevator:
+  min-floor: 1
+  max-floor: 16
+
